@@ -1,2 +1,2 @@
-rootProject.name='Just Java'
+rootProject.name='CoffeeOrderApp'
 include ':app'
